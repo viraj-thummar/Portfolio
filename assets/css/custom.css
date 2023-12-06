@@ -1,0 +1,12 @@
+.vlt-partners li img {
+    width: 100px;
+}
+.vlt-partners{
+    grid-row-gap: 3.375rem;
+}
+.vlt-section__projects-background img.is-active{
+    opacity: 0.25!important;
+}
+.vlt-project-title{
+    font-size: 5rem;
+}
